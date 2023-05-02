@@ -1,0 +1,2258 @@
+├─ @esbuild/darwin-arm64@0.17.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/evanw/esbuild
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@esbuild/darwin-arm64
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@esbuild/darwin-arm64/README.md
+├─ @koa/router@10.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koajs/router
+│  ├─ publisher: Alex Mingoia
+│  ├─ email: talk@alexmingoia.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@koa/router
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@koa/router/LICENSE
+├─ @koishijs/assets@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/assets
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/assets
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/assets/README.md
+├─ @koishijs/boilerplate@0.0.0
+│  ├─ licenses: UNLICENSED
+│  ├─ private: true
+│  ├─ path: /Users/Shared/git/w-o-gpl
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/licence-report
+├─ @koishijs/core@4.12.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/core
+├─ @koishijs/loader@3.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/loader
+├─ @koishijs/plugin-adapter-discord@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-adapter-discord
+├─ @koishijs/plugin-adapter-kook@3.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-adapter-kook
+├─ @koishijs/plugin-adapter-lark@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Maiko Tan
+│  ├─ email: maiko.tan.coding@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-adapter-lark
+├─ @koishijs/plugin-adapter-onebot@5.6.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-adapter-onebot
+├─ @koishijs/plugin-adapter-telegram@3.7.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-adapter-telegram
+├─ @koishijs/plugin-admin@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-admin
+├─ @koishijs/plugin-bind@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-bind
+├─ @koishijs/plugin-database-sqlite@3.4.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: thezzisu
+│  ├─ email: 2100012732@stu.pku.edu.cn
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-database-sqlite
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-database-sqlite/README.md
+├─ @koishijs/plugin-help@2.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-help
+├─ @koishijs/plugin-hmr@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-hmr
+├─ @koishijs/plugin-rate-limit@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/plugin-rate-limit
+├─ @koishijs/scripts@4.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/scripts
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/scripts
+├─ @koishijs/utils@7.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@koishijs/utils
+├─ @minatojs/core@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/minato
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@minatojs/core
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@minatojs/core/readme.md
+├─ @minatojs/driver-sqlite@3.4.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/minato
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@minatojs/driver-sqlite
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@minatojs/driver-sqlite/readme.md
+├─ @minatojs/sql-utils@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/minato
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@minatojs/sql-utils
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@minatojs/sql-utils/readme.md
+├─ @minatojs/sql.js@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Anillc/minatojs-sql.js
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@minatojs/sql.js
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@minatojs/sql.js/LICENSE
+├─ @nodelib/fs.scandir@2.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.scandir
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@nodelib/fs.scandir
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@nodelib/fs.scandir/LICENSE
+├─ @nodelib/fs.stat@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@nodelib/fs.stat
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@nodelib/fs.stat/LICENSE
+├─ @nodelib/fs.walk@1.2.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.walk
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@nodelib/fs.walk
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@nodelib/fs.walk/LICENSE
+├─ @puppeteer/browsers@0.5.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/puppeteer/puppeteer/tree/main/packages/browsers
+│  ├─ publisher: The Chromium Authors
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@puppeteer/browsers
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@puppeteer/browsers/README.md
+├─ @satorijs/adapter-discord@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: LittleC
+│  ├─ email: i@ltlec.cn
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@satorijs/adapter-discord
+├─ @satorijs/adapter-kook@3.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@satorijs/adapter-kook
+├─ @satorijs/adapter-lark@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Maiko Tan
+│  ├─ email: maiko.tan.coding@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@satorijs/adapter-lark
+├─ @satorijs/adapter-onebot@5.6.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@satorijs/adapter-onebot
+├─ @satorijs/adapter-telegram@3.7.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: undefined
+│  ├─ email: i@undefined.moe
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@satorijs/adapter-telegram
+├─ @satorijs/core@2.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@satorijs/core
+├─ @satorijs/element@2.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@satorijs/element
+├─ @satorijs/satori@2.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/@satorijs/satori
+├─ @shigma/esbuild-register@1.1.1
+│  ├─ licenses: MIT
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/esbuild-register
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/esbuild-register/LICENSE
+├─ @sindresorhus/is@0.14.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@sindresorhus/is
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@sindresorhus/is/license
+├─ @szmarczak/http-timer@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/szmarczak/http-timer
+│  ├─ publisher: Szymon Marczak
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@szmarczak/http-timer
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@szmarczak/http-timer/LICENSE
+├─ @tokenizer/token@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Borewit/tokenizer-token
+│  ├─ publisher: Borewit
+│  ├─ url: https://github.com/Borewit
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@tokenizer/token
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@tokenizer/token/README.md
+├─ @tootallnate/once@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/once
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@tootallnate/once
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@tootallnate/once/LICENSE
+├─ @types/accepts@1.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/accepts
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/accepts/LICENSE
+├─ @types/body-parser@1.19.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/body-parser
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/body-parser/LICENSE
+├─ @types/connect@3.4.35
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/connect
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/connect/LICENSE
+├─ @types/content-disposition@0.5.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/content-disposition
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/content-disposition/LICENSE
+├─ @types/cookies@0.7.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/cookies
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/cookies/LICENSE
+├─ @types/express-serve-static-core@4.17.34
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/express-serve-static-core
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/express-serve-static-core/LICENSE
+├─ @types/express@4.17.17
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/express
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/express/LICENSE
+├─ @types/http-assert@1.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/http-assert
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/http-assert/LICENSE
+├─ @types/http-errors@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/http-errors
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/http-errors/LICENSE
+├─ @types/keygrip@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/keygrip
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/keygrip/LICENSE
+├─ @types/koa-compose@3.2.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/koa-compose
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/koa-compose/LICENSE
+├─ @types/koa@2.13.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/koa
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/koa/LICENSE
+├─ @types/koa__router@12.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/koa__router
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/koa__router/LICENSE
+├─ @types/mime@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/send/node_modules/@types/mime
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/send/node_modules/@types/mime/LICENSE
+├─ @types/mime@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/mime
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/mime/LICENSE
+├─ @types/node@18.16.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/node
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/node/LICENSE
+├─ @types/qs@6.9.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/qs
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/qs/LICENSE
+├─ @types/range-parser@1.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/range-parser
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/range-parser/LICENSE
+├─ @types/send@0.17.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/send
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/send/LICENSE
+├─ @types/serve-static@1.15.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/serve-static
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/serve-static/LICENSE
+├─ @types/ws@8.5.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/ws
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/ws/LICENSE
+├─ @types/yauzl@2.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/@types/yauzl
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/@types/yauzl/LICENSE
+├─ accepts@1.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/accepts
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/accepts
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/accepts/LICENSE
+├─ agent-base@6.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-agent-base
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/agent-base
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/agent-base/README.md
+├─ aggregate-error@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/aggregate-error
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/aggregate-error
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/aggregate-error/license
+├─ ansi-regex@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ansi-regex
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ansi-regex/license
+├─ ansi-styles@4.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ansi-styles
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ansi-styles/license
+├─ anymatch@3.1.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/micromatch/anymatch
+│  ├─ publisher: Elan Shanker
+│  ├─ url: https://github.com/es128
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/anymatch
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/anymatch/LICENSE
+├─ argparse@2.0.1
+│  ├─ licenses: Python-2.0
+│  ├─ repository: https://github.com/nodeca/argparse
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/argparse
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/argparse/LICENSE
+├─ array-union@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-union
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/array-union
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/array-union/license
+├─ asynckit@0.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/alexindigo/asynckit
+│  ├─ publisher: Alex Indigo
+│  ├─ email: iam@alexindigo.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/asynckit
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/asynckit/LICENSE
+├─ atsc@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/atsc
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/atsc
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/atsc/LICENSE
+├─ axios@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/axios/axios
+│  ├─ publisher: Matt Zabriskie
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/axios
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/axios/LICENSE
+├─ base64-js@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/beatgammit/base64-js
+│  ├─ publisher: T. Jameson Little
+│  ├─ email: t.jameson.little@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/base64-js
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/base64-js/LICENSE
+├─ binary-extensions@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/binary-extensions
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/binary-extensions
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/binary-extensions/license
+├─ bl@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/bl
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/bl
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/bl/LICENSE.md
+├─ braces@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/braces
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/braces
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/braces/LICENSE
+├─ buffer-crc32@0.2.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianloveswords/buffer-crc32
+│  ├─ publisher: Brian J. Brennan
+│  ├─ email: brianloveswords@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/buffer-crc32
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/buffer-crc32/LICENSE
+├─ buffer@5.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/buffer
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/buffer/LICENSE
+├─ bytes@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/bytes.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/bytes
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/bytes/LICENSE
+├─ cac@6.7.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/egoist/cac
+│  ├─ publisher: egoist
+│  ├─ email: 0x142857@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cac
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cac/LICENSE
+├─ cache-content-type@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/node-modules/cache-content-type
+│  ├─ publisher: dead_horse
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cache-content-type
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cache-content-type/README.md
+├─ cacheable-request@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukechilds/cacheable-request
+│  ├─ publisher: Luke Childs
+│  ├─ email: lukechilds123@gmail.com
+│  ├─ url: http://lukechilds.co.uk
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cacheable-request
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cacheable-request/LICENSE
+├─ call-bind@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bind
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/call-bind
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/call-bind/LICENSE
+├─ chalk@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/chalk
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/chalk/license
+├─ chokidar@3.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/chokidar
+│  ├─ publisher: Paul Miller
+│  ├─ url: https://paulmillr.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/chokidar
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/chokidar/LICENSE
+├─ chownr@1.1.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/chownr
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/chownr
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/chownr/LICENSE
+├─ chromium-bidi@0.4.7
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/GoogleChromeLabs/chromium-bidi
+│  ├─ publisher: The Chromium Authors
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/chromium-bidi
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/chromium-bidi/LICENSE
+├─ clean-stack@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/clean-stack
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/clean-stack
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/clean-stack/license
+├─ cli-cursor@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/cli-cursor
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cli-cursor
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cli-cursor/license
+├─ cli-spinners@2.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/cli-spinners
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cli-spinners
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cli-spinners/license
+├─ cliui@8.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/cliui
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cliui
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cliui/LICENSE.txt
+├─ clone-response@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/clone-response
+│  ├─ publisher: Luke Childs
+│  ├─ email: lukechilds123@gmail.com
+│  ├─ url: http://lukechilds.co.uk
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/clone-response
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/clone-response/LICENSE
+├─ clone@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pvorb/node-clone
+│  ├─ publisher: Paul Vorbach
+│  ├─ email: paul@vorba.ch
+│  ├─ url: http://paul.vorba.ch/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/clone
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/clone/LICENSE
+├─ co-body@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cojs/co-body
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/co-body
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/co-body/Readme.md
+├─ co@4.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/co
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/co
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/co/LICENSE
+├─ color-convert@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qix-/color-convert
+│  ├─ publisher: Heather Arthur
+│  ├─ email: fayearthur@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/color-convert
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/color-convert/LICENSE
+├─ color-name@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/colorjs/color-name
+│  ├─ publisher: DY
+│  ├─ email: dfcreative@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/color-name
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/color-name/LICENSE
+├─ combined-stream@1.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-combined-stream
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/combined-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/combined-stream/License
+├─ content-disposition@0.5.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-disposition
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/content-disposition
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/content-disposition/LICENSE
+├─ content-type@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-type
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/content-type
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/content-type/LICENSE
+├─ cookies@0.8.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/cookies
+│  ├─ publisher: Jed Schmidt
+│  ├─ email: tr@nslator.jp
+│  ├─ url: http://jed.is
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cookies
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cookies/LICENSE
+├─ copy-to@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/node-modules/copy-to
+│  ├─ publisher: dead_horse
+│  ├─ email: dead_horse@qq.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/copy-to
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/copy-to/README.md
+├─ cordis-axios@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/satorijs/satori
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/cordis-axios
+├─ cordis@2.7.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/cordis
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cordis
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cordis/LICENSE
+├─ cosmokit@1.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/cosmokit
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cosmokit
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cosmokit/LICENSE
+├─ cross-env@7.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kentcdodds/cross-env
+│  ├─ publisher: Kent C. Dodds
+│  ├─ email: me@kentcdodds.com
+│  ├─ url: https://kentcdodds.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cross-env
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cross-env/LICENSE
+├─ cross-fetch@3.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lquixada/cross-fetch
+│  ├─ publisher: Leonardo Quixada
+│  ├─ email: lquixada@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cross-fetch
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cross-fetch/LICENSE
+├─ cross-spawn@7.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/moxystudio/node-cross-spawn
+│  ├─ publisher: André Cruz
+│  ├─ email: andre@moxy.studio
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cross-spawn
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cross-spawn/LICENSE
+├─ debug@4.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/debug-js/debug
+│  ├─ publisher: Josh Junon
+│  ├─ email: josh.junon@protonmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/debug
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/debug/LICENSE
+├─ decompress-response@3.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/decompress-response
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/decompress-response
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/decompress-response/license
+├─ deep-equal@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-deep-equal
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/deep-equal
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/deep-equal/LICENSE
+├─ deep-extend@0.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unclechu/node-deep-extend
+│  ├─ publisher: Viacheslav Lotsmanov
+│  ├─ email: lotsmanov89@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/deep-extend
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/deep-extend/LICENSE
+├─ defaults@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/node-defaults
+│  ├─ publisher: Elijah Insua
+│  ├─ email: tmpvar@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/defaults
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/defaults/LICENSE
+├─ defer-to-connect@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/szmarczak/defer-to-connect
+│  ├─ publisher: Szymon Marczak
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/defer-to-connect
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/defer-to-connect/LICENSE
+├─ delayed-stream@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-delayed-stream
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/delayed-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/delayed-stream/License
+├─ delegates@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-delegates
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/delegates
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/delegates/License
+├─ depd@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dougwilson/nodejs-depd
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/http-errors/node_modules/depd
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/http-errors/node_modules/depd/LICENSE
+├─ depd@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dougwilson/nodejs-depd
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/depd
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/depd/LICENSE
+├─ destroy@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/destroy
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/destroy
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/destroy/LICENSE
+├─ detect-indent@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/detect-indent
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/detect-indent
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/detect-indent/license
+├─ devtools-protocol@0.0.1107588
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ChromeDevTools/devtools-protocol
+│  ├─ publisher: The Chromium Authors
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/devtools-protocol
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/devtools-protocol/LICENSE
+├─ dir-glob@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevva/dir-glob
+│  ├─ publisher: Kevin Mårtensson
+│  ├─ email: kevinmartensson@gmail.com
+│  ├─ url: github.com/kevva
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/dir-glob
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/dir-glob/license
+├─ dotenv@16.0.3
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/motdotla/dotenv
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/dotenv
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/dotenv/LICENSE
+├─ dtsc@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/dtsc
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/dtsc
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/dtsc/LICENSE
+├─ duplexer3@0.1.5
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/sindresorhus/duplexer3
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/duplexer3
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/duplexer3/license
+├─ ee-first@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonathanong/ee-first
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ee-first
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ee-first/LICENSE
+├─ emoji-regex@8.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/emoji-regex
+│  ├─ publisher: Mathias Bynens
+│  ├─ url: https://mathiasbynens.be/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/emoji-regex
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/emoji-regex/LICENSE-MIT.txt
+├─ encodeurl@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/encodeurl
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/encodeurl
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/encodeurl/LICENSE
+├─ end-of-stream@1.4.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/end-of-stream
+│  ├─ publisher: Mathias Buus
+│  ├─ email: mathiasbuus@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/end-of-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/end-of-stream/LICENSE
+├─ esbuild@0.17.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/evanw/esbuild
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/esbuild
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/esbuild/LICENSE.md
+├─ escalade@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukeed/escalade
+│  ├─ publisher: Luke Edwards
+│  ├─ email: luke.edwards05@gmail.com
+│  ├─ url: https://lukeed.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/escalade
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/escalade/license
+├─ escape-html@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/escape-html
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/escape-html
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/escape-html/LICENSE
+├─ execa@5.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/execa
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/execa
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/execa/license
+├─ extract-zip@2.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/maxogden/extract-zip
+│  ├─ publisher: max ogden
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/extract-zip
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/extract-zip/LICENSE
+├─ fast-glob@3.2.12
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mrmlnc/fast-glob
+│  ├─ publisher: Denis Malinochkin
+│  ├─ url: https://mrmlnc.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fast-glob
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fast-glob/LICENSE
+├─ fastest-levenshtein@1.0.16
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ka-weihe/fastest-levenshtein
+│  ├─ publisher: Kasper U. Weihe
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fastest-levenshtein
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fastest-levenshtein/LICENSE.md
+├─ fastq@1.15.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/mcollina/fastq
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fastq
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fastq/LICENSE
+├─ fd-slicer@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/andrewrk/node-fd-slicer
+│  ├─ publisher: Andrew Kelley
+│  ├─ email: superjoe30@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fd-slicer
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fd-slicer/LICENSE
+├─ file-type@16.5.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/file-type
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/file-type
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/file-type/license
+├─ fill-range@7.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/fill-range
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fill-range
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fill-range/LICENSE
+├─ follow-redirects@1.15.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/follow-redirects/follow-redirects
+│  ├─ publisher: Ruben Verborgh
+│  ├─ email: ruben@verborgh.org
+│  ├─ url: https://ruben.verborgh.org/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/follow-redirects
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/follow-redirects/LICENSE
+├─ form-data@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/form-data/form-data
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/form-data
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/form-data/License
+├─ fresh@0.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/fresh
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fresh
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fresh/LICENSE
+├─ fs-constants@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/fs-constants
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fs-constants
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fs-constants/LICENSE
+├─ fs-extra@10.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jprichardson/node-fs-extra
+│  ├─ publisher: JP Richardson
+│  ├─ email: jprichardson@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fs-extra
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fs-extra/LICENSE
+├─ fsevents@2.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fsevents/fsevents
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/fsevents
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/fsevents/LICENSE
+├─ function-bind@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/function-bind
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/function-bind/LICENSE
+├─ get-caller-file@2.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/stefanpenner/get-caller-file
+│  ├─ publisher: Stefan Penner
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/get-caller-file
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/get-caller-file/LICENSE.md
+├─ get-intrinsic@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/get-intrinsic
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/get-intrinsic
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/get-intrinsic/LICENSE
+├─ get-stream@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/get-stream
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/got/node_modules/get-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/got/node_modules/get-stream/license
+├─ get-stream@5.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/get-stream
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/get-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/get-stream/license
+├─ get-stream@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/get-stream
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/execa/node_modules/get-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/execa/node_modules/get-stream/license
+├─ glob-parent@5.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/gulpjs/glob-parent
+│  ├─ publisher: Gulp Team
+│  ├─ email: team@gulpjs.com
+│  ├─ url: https://gulpjs.com/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/glob-parent
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/glob-parent/LICENSE
+├─ globby@11.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/globby
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/globby
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/globby/license
+├─ got@9.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/got
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/got
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/got/license
+├─ graceful-fs@4.2.11
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-graceful-fs
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/graceful-fs
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/graceful-fs/LICENSE
+├─ has-flag@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/has-flag
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/has-flag/license
+├─ has-symbols@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-symbols
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/has-symbols
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/has-symbols/LICENSE
+├─ has-tostringtag@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-tostringtag
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/has-tostringtag
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/has-tostringtag/LICENSE
+├─ has@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tarruda/has
+│  ├─ publisher: Thiago de Arruda
+│  ├─ email: tpadilha84@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/has
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/has/LICENSE-MIT
+├─ http-assert@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/http-assert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/http-assert
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/http-assert/LICENSE
+├─ http-cache-semantics@4.1.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/kornelski/http-cache-semantics
+│  ├─ publisher: Kornel Lesiński
+│  ├─ email: kornel@geekhood.net
+│  ├─ url: https://kornel.ski/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/http-cache-semantics
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/http-cache-semantics/LICENSE
+├─ http-errors@1.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/http-errors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/http-errors
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/http-errors/LICENSE
+├─ http-errors@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/http-errors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/raw-body/node_modules/http-errors
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/raw-body/node_modules/http-errors/LICENSE
+├─ http-proxy-agent@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-http-proxy-agent
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/http-proxy-agent
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/http-proxy-agent/README.md
+├─ https-proxy-agent@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-https-proxy-agent
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/https-proxy-agent
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/https-proxy-agent/README.md
+├─ human-signals@2.1.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/ehmicky/human-signals
+│  ├─ publisher: ehmicky
+│  ├─ email: ehmicky@gmail.com
+│  ├─ url: https://github.com/ehmicky
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/human-signals
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/human-signals/LICENSE
+├─ iconv-lite@0.4.24
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ashtuchkin/iconv-lite
+│  ├─ publisher: Alexander Shtuchkin
+│  ├─ email: ashtuchkin@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/iconv-lite
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/iconv-lite/LICENSE
+├─ ieee754@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/feross/ieee754
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ieee754
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ieee754/LICENSE
+├─ ignore@5.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kaelzhang/node-ignore
+│  ├─ publisher: kael
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ignore
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ignore/LICENSE-MIT
+├─ inaba@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/inaba
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/inaba
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/inaba/LICENSE
+├─ indent-string@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/indent-string
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/indent-string
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/indent-string/license
+├─ inflation@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/inflation
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/inflation
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/inflation/LICENSE
+├─ inherits@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/inherits
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/inherits/LICENSE
+├─ ini@1.3.8
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/ini
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ini
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ini/LICENSE
+├─ ip@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/node-ip
+│  ├─ publisher: Fedor Indutny
+│  ├─ email: fedor@indutny.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ip
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ip/README.md
+├─ is-binary-path@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-binary-path
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-binary-path
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-binary-path/license
+├─ is-extglob@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extglob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-extglob
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-extglob/LICENSE
+├─ is-fullwidth-code-point@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-fullwidth-code-point
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-fullwidth-code-point
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-fullwidth-code-point/license
+├─ is-generator-function@1.0.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-generator-function
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-generator-function
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-generator-function/LICENSE
+├─ is-glob@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/is-glob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-glob
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-glob/LICENSE
+├─ is-interactive@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-interactive
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-interactive
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-interactive/license
+├─ is-number@7.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-number
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-number
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-number/LICENSE
+├─ is-stream@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-stream
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-stream/license
+├─ is-unicode-supported@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-unicode-supported
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/is-unicode-supported
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/is-unicode-supported/license
+├─ isexe@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/isexe
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/isexe
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/isexe/LICENSE
+├─ js-yaml@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/js-yaml
+│  ├─ publisher: Vladimir Zapparov
+│  ├─ email: dervus.grim@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/js-yaml
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/js-yaml/LICENSE
+├─ json-buffer@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/json-buffer
+│  ├─ publisher: Dominic Tarr
+│  ├─ email: dominic.tarr@gmail.com
+│  ├─ url: http://dominictarr.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/json-buffer
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/json-buffer/LICENSE
+├─ json5@2.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/json5/json5
+│  ├─ publisher: Aseem Kishore
+│  ├─ email: aseem.kishore@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/json5
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/json5/LICENSE.md
+├─ jsonfile@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jprichardson/node-jsonfile
+│  ├─ publisher: JP Richardson
+│  ├─ email: jprichardson@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/jsonfile
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/jsonfile/LICENSE
+├─ keygrip@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-utils/keygrip
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/keygrip
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/keygrip/LICENSE
+├─ keyv@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukechilds/keyv
+│  ├─ publisher: Luke Childs
+│  ├─ email: lukechilds123@gmail.com
+│  ├─ url: http://lukechilds.co.uk
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/keyv
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/keyv/LICENSE
+├─ kleur@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukeed/kleur
+│  ├─ publisher: Luke Edwards
+│  ├─ email: luke.edwards05@gmail.com
+│  ├─ url: lukeed.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/prompts/node_modules/kleur
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/prompts/node_modules/kleur/license
+├─ kleur@4.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukeed/kleur
+│  ├─ publisher: Luke Edwards
+│  ├─ email: luke.edwards05@gmail.com
+│  ├─ url: https://lukeed.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/kleur
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/kleur/license
+├─ koa-bodyparser@4.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koajs/bodyparser
+│  ├─ publisher: dead_horse
+│  ├─ email: dead_horse@qq.com
+│  ├─ url:  http://deadhorse.me
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/koa-bodyparser
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/koa-bodyparser/LICENSE
+├─ koa-compose@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koajs/compose
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/koa-compose
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/koa-compose/Readme.md
+├─ koa-convert@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gyson/koa-convert
+│  ├─ publisher: gyson
+│  ├─ email: eilian.yunsong@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/koa-convert
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/koa-convert/LICENSE
+├─ koa@2.14.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koajs/koa
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/koa
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/koa/LICENSE
+├─ koishi-plugin-assets-local@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/assets
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/koishi-plugin-assets-local
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/koishi-plugin-assets-local/README.md
+├─ koishi-plugin-desktop@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi-desktop
+│  ├─ publisher: Il Harper
+│  ├─ email: hi@ilharper.com
+│  ├─ url: https://ilharper.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/koishi-plugin-desktop
+├─ koishi-plugin-puppeteer@3.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi-plugin-puppeteer
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/koishi-plugin-puppeteer
+├─ koishi@4.12.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/koishi
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/koishi
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/koishi/readme.md
+├─ latest-version@5.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/latest-version
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/latest-version
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/latest-version/license
+├─ log-symbols@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/log-symbols
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/log-symbols
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/log-symbols/license
+├─ lowercase-keys@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/lowercase-keys
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/lowercase-keys
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/lowercase-keys/license
+├─ lowercase-keys@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/lowercase-keys
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/cacheable-request/node_modules/lowercase-keys
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/cacheable-request/node_modules/lowercase-keys/license
+├─ lru-cache@6.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-lru-cache
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/lru-cache
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/lru-cache/LICENSE
+├─ media-typer@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/media-typer
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/media-typer
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/media-typer/LICENSE
+├─ merge-stream@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/grncdr/merge-stream
+│  ├─ publisher: Stephen Sugden
+│  ├─ email: me@stephensugden.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/merge-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/merge-stream/LICENSE
+├─ merge2@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/teambition/merge2
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/merge2
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/merge2/LICENSE
+├─ methods@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/methods
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/methods
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/methods/LICENSE
+├─ micromatch@4.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/micromatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/micromatch
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/micromatch/LICENSE
+├─ mime-db@1.52.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-db
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/mime-db
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/mime-db/LICENSE
+├─ mime-types@2.1.35
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-types
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/mime-types
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/mime-types/LICENSE
+├─ mimic-fn@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/mimic-fn
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/mimic-fn
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/mimic-fn/license
+├─ mimic-response@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/mimic-response
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/mimic-response
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/mimic-response/license
+├─ minimist@1.2.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/minimistjs/minimist
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/minimist
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/minimist/LICENSE
+├─ mitt@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/developit/mitt
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/mitt
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/mitt/LICENSE
+├─ mkdirp-classic@0.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/mkdirp-classic
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/mkdirp-classic
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/mkdirp-classic/LICENSE
+├─ ms@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zeit/ms
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ms
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ms/license.md
+├─ negotiator@0.6.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/negotiator
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/negotiator
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/negotiator/LICENSE
+├─ node-fetch@2.6.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bitinn/node-fetch
+│  ├─ publisher: David Frank
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/node-fetch
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/node-fetch/LICENSE.md
+├─ normalize-path@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/normalize-path
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/normalize-path
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/normalize-path/LICENSE
+├─ normalize-url@4.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/normalize-url
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/normalize-url
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/normalize-url/license
+├─ npm-run-path@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/npm-run-path
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/npm-run-path
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/npm-run-path/license
+├─ ns-require@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/ns-require
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ns-require
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ns-require/LICENSE
+├─ object-inspect@1.12.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/object-inspect
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/object-inspect
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/object-inspect/LICENSE
+├─ on-finished@2.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/on-finished
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/on-finished
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/on-finished/LICENSE
+├─ once@1.4.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/once
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/once/LICENSE
+├─ onetime@5.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/onetime
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/onetime
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/onetime/license
+├─ only@0.0.2
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/visionmedia/node-only
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/only
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/only/Readme.md
+├─ ora@5.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/ora
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ora
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ora/license
+├─ p-cancelable@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/p-cancelable
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/p-cancelable
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/p-cancelable/license
+├─ p-map@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/p-map
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/p-map
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/p-map/license
+├─ package-json@6.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/package-json
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/package-json
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/package-json/license
+├─ parseurl@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/parseurl
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/parseurl
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/parseurl/LICENSE
+├─ path-key@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-key
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/path-key
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/path-key/license
+├─ path-to-regexp@6.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/path-to-regexp
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/path-to-regexp
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/path-to-regexp/LICENSE
+├─ path-type@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-type
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/path-type
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/path-type/license
+├─ peek-readable@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Borewit/peek-readable
+│  ├─ publisher: Borewit
+│  ├─ url: https://github.com/Borewit
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/peek-readable
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/peek-readable/LICENSE
+├─ pend@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/andrewrk/node-pend
+│  ├─ publisher: Andrew Kelley
+│  ├─ email: superjoe30@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/pend
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/pend/LICENSE
+├─ picomatch@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/picomatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/picomatch
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/picomatch/LICENSE
+├─ prepend-http@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/prepend-http
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/prepend-http
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/prepend-http/license
+├─ progress@2.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-progress
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/progress
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/progress/LICENSE
+├─ prompts@2.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/terkelg/prompts
+│  ├─ publisher: Terkel Gjervig
+│  ├─ email: terkel@terkel.com
+│  ├─ url: https://terkel.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/prompts
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/prompts/license
+├─ proxy-from-env@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Rob--W/proxy-from-env
+│  ├─ publisher: Rob Wu
+│  ├─ email: rob@robwu.nl
+│  ├─ url: https://robwu.nl/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/proxy-from-env
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/proxy-from-env/LICENSE
+├─ pump@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/pump
+│  ├─ publisher: Mathias Buus Madsen
+│  ├─ email: mathiasbuus@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/pump
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/pump/LICENSE
+├─ puppeteer-core@19.11.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/puppeteer/puppeteer/tree/main/packages/puppeteer-core
+│  ├─ publisher: The Chromium Authors
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/puppeteer-core
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/puppeteer-core/README.md
+├─ puppeteer-finder@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/koishijs/koishi-plugin-puppeteer
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/puppeteer-finder
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/puppeteer-finder/readme.md
+├─ qface@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/koishijs/QFace
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/qface
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/qface/README.md
+├─ qs@6.11.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/qs
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/qs/LICENSE.md
+├─ queue-microtask@1.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/queue-microtask
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/queue-microtask
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/queue-microtask/LICENSE
+├─ raw-body@2.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/raw-body
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/raw-body
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/raw-body/LICENSE
+├─ rc@1.2.8
+│  ├─ licenses: (BSD-2-Clause OR MIT OR Apache-2.0)
+│  ├─ repository: https://github.com/dominictarr/rc
+│  ├─ publisher: Dominic Tarr
+│  ├─ email: dominic.tarr@gmail.com
+│  ├─ url: dominictarr.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/rc
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/rc/LICENSE.APACHE2
+├─ readable-stream@3.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/readable-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/readable-stream/LICENSE
+├─ readable-web-to-node-stream@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Borewit/readable-web-to-node-stream
+│  ├─ publisher: Borewit
+│  ├─ url: https://github.com/Borewit
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/readable-web-to-node-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/readable-web-to-node-stream/README.md
+├─ readdirp@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/readdirp
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ email: thlorenz@gmx.de
+│  ├─ url: thlorenz.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/readdirp
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/readdirp/LICENSE
+├─ reggol@1.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/reggol
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/reggol
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/reggol/LICENSE
+├─ registry-auth-token@4.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rexxars/registry-auth-token
+│  ├─ publisher: Espen Hovlandsdal
+│  ├─ email: espen@hovlandsdal.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/registry-auth-token
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/registry-auth-token/LICENSE
+├─ registry-url@5.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/registry-url
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/registry-url
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/registry-url/license
+├─ require-directory@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/troygoode/node-require-directory
+│  ├─ publisher: Troy Goode
+│  ├─ email: troygoode@gmail.com
+│  ├─ url: http://github.com/troygoode/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/require-directory
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/require-directory/LICENSE
+├─ responselike@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukechilds/responselike
+│  ├─ publisher: lukechilds
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/responselike
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/responselike/LICENSE
+├─ restore-cursor@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/restore-cursor
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/restore-cursor
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/restore-cursor/license
+├─ reusify@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcollina/reusify
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/reusify
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/reusify/LICENSE
+├─ run-parallel@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/run-parallel
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/run-parallel
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/run-parallel/LICENSE
+├─ safe-buffer@5.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/safe-buffer
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/safe-buffer/LICENSE
+├─ safer-buffer@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ChALkeR/safer-buffer
+│  ├─ publisher: Nikita Skovoroda
+│  ├─ email: chalkerx@gmail.com
+│  ├─ url: https://github.com/ChALkeR
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/safer-buffer
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/safer-buffer/LICENSE
+├─ schemastery@3.7.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/schemastery
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/schemastery
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/schemastery/README.md
+├─ semver@6.3.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/package-json/node_modules/semver
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/package-json/node_modules/semver/LICENSE
+├─ semver@7.5.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ publisher: GitHub Inc.
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/semver
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/semver/LICENSE
+├─ setprototypeof@1.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/wesleytodd/setprototypeof
+│  ├─ publisher: Wes Todd
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/setprototypeof
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/setprototypeof/LICENSE
+├─ shebang-command@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevva/shebang-command
+│  ├─ publisher: Kevin Mårtensson
+│  ├─ email: kevinmartensson@gmail.com
+│  ├─ url: github.com/kevva
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/shebang-command
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/shebang-command/license
+├─ shebang-regex@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/shebang-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/shebang-regex
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/shebang-regex/license
+├─ side-channel@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/side-channel
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/side-channel
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/side-channel/LICENSE
+├─ signal-exit@3.0.7
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/tapjs/signal-exit
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/signal-exit
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/signal-exit/LICENSE.txt
+├─ sisteransi@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/terkelg/sisteransi
+│  ├─ publisher: Terkel Gjervig
+│  ├─ email: terkel@terkel.com
+│  ├─ url: https://terkel.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/sisteransi
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/sisteransi/license
+├─ slash@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/slash
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/slash
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/slash/license
+├─ smart-buffer@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/JoshGlazebrook/smart-buffer
+│  ├─ publisher: Josh Glazebrook
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/smart-buffer
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/smart-buffer/LICENSE
+├─ socks-proxy-agent@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-socks-proxy-agent
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/socks-proxy-agent
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/socks-proxy-agent/README.md
+├─ socks@2.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/JoshGlazebrook/socks
+│  ├─ publisher: Josh Glazebrook
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/socks
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/socks/LICENSE
+├─ statuses@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/statuses
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/statuses
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/statuses/LICENSE
+├─ statuses@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/statuses
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/raw-body/node_modules/statuses
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/raw-body/node_modules/statuses/LICENSE
+├─ string-width@4.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-width
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/string-width
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/string-width/license
+├─ string_decoder@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/string_decoder
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/string_decoder
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/string_decoder/LICENSE
+├─ strip-ansi@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/strip-ansi
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/strip-ansi/license
+├─ strip-final-newline@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/strip-final-newline
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/strip-final-newline
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/strip-final-newline/license
+├─ strip-json-comments@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/strip-json-comments
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/strip-json-comments
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/strip-json-comments/license
+├─ strtok3@6.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Borewit/strtok3
+│  ├─ publisher: Borewit
+│  ├─ url: https://github.com/Borewit
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/strtok3
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/strtok3/LICENSE
+├─ supports-color@7.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/supports-color
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/supports-color/license
+├─ supports-color@8.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/reggol/node_modules/supports-color
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/reggol/node_modules/supports-color/license
+├─ tar-fs@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/tar-fs
+│  ├─ publisher: Mathias Buus
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/tar-fs
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/tar-fs/LICENSE
+├─ tar-stream@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/tar-stream
+│  ├─ publisher: Mathias Buus
+│  ├─ email: mathiasbuus@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/tar-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/tar-stream/LICENSE
+├─ throttle-debounce@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/niksy/throttle-debounce
+│  ├─ publisher: Ivan Nikolić
+│  ├─ email: niksy5@gmail.com
+│  ├─ url: http://ivannikolic.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/throttle-debounce
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/throttle-debounce/LICENSE.md
+├─ through@2.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/through
+│  ├─ publisher: Dominic Tarr
+│  ├─ email: dominic.tarr@gmail.com
+│  ├─ url: dominictarr.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/through
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/through/LICENSE.APACHE2
+├─ to-readable-stream@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/to-readable-stream
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/to-readable-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/to-readable-stream/license
+├─ to-regex-range@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/to-regex-range
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/to-regex-range
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/to-regex-range/LICENSE
+├─ toidentifier@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/toidentifier
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/toidentifier
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/toidentifier/LICENSE
+├─ token-types@4.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Borewit/token-types
+│  ├─ publisher: Borewit
+│  ├─ url: https://github.com/Borewit
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/token-types
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/token-types/LICENSE
+├─ tr46@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Sebmaster/tr46.js
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: npm@smayr.name
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/tr46
+├─ tsconfig-utils@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/tsconfig-utils
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/tsconfig-utils
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/tsconfig-utils/LICENSE
+├─ tsscmp@1.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/suryagh/tsscmp
+│  ├─ publisher: suryagh
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/tsscmp
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/tsscmp/LICENSE
+├─ type-is@1.6.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/type-is
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/type-is
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/type-is/LICENSE
+├─ typescript@5.0.4
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/Microsoft/TypeScript
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/typescript
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/typescript/LICENSE.txt
+├─ unbzip2-stream@1.4.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/regular/unbzip2-stream
+│  ├─ publisher: Jan Bölsche
+│  ├─ email: jan@lagomorph.de
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/unbzip2-stream
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/unbzip2-stream/LICENSE
+├─ universalify@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/RyanZim/universalify
+│  ├─ publisher: Ryan Zimmerman
+│  ├─ email: opensrc@ryanzim.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/universalify
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/universalify/LICENSE
+├─ unpipe@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/unpipe
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/unpipe
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/unpipe/LICENSE
+├─ url-parse-lax@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/url-parse-lax
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/url-parse-lax
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/url-parse-lax/license
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/util-deprecate
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/util-deprecate/LICENSE
+├─ vary@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/vary
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/vary
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/vary/LICENSE
+├─ wcwidth@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/timoxley/wcwidth
+│  ├─ publisher: Tim Oxley
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/wcwidth
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/wcwidth/LICENSE
+├─ webidl-conversions@3.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jsdom/webidl-conversions
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/webidl-conversions
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/webidl-conversions/LICENSE.md
+├─ whatwg-url@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: github@smayr.name
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/whatwg-url
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/whatwg-url/LICENSE.txt
+├─ which-pm-runs@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zkochan/packages/tree/main/which-pm-runs
+│  ├─ publisher: Zoltan Kochan
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/which-pm-runs
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/which-pm-runs/LICENSE
+├─ which@2.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-which
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/which
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/which/LICENSE
+├─ wrap-ansi@7.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/wrap-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/wrap-ansi
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/wrap-ansi/license
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/wrappy
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/wrappy/LICENSE
+├─ ws@8.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/websockets/ws
+│  ├─ publisher: Einar Otto Stangvik
+│  ├─ email: einaros@gmail.com
+│  ├─ url: http://2x.io
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ws
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ws/LICENSE
+├─ y18n@5.0.8
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/y18n
+│  ├─ publisher: Ben Coe
+│  ├─ email: bencoe@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/y18n
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/y18n/LICENSE
+├─ yakumo-esbuild-yaml@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/yakumo
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/yakumo-esbuild-yaml
+├─ yakumo-esbuild@0.3.22
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/yakumo
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yakumo-esbuild
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yakumo-esbuild/readme.md
+├─ yakumo-publish-sync@0.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/yakumo
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  └─ path: /Users/Shared/git/w-o-gpl/node_modules/yakumo-publish-sync
+├─ yakumo-publish@0.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/yakumo
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yakumo-publish
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yakumo-publish/readme.md
+├─ yakumo-tsc@0.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/yakumo
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yakumo-tsc
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yakumo-tsc/readme.md
+├─ yakumo-upgrade@0.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/yakumo
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yakumo-upgrade
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yakumo-upgrade/readme.md
+├─ yakumo-version@0.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/yakumo
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yakumo-version
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yakumo-version/readme.md
+├─ yakumo@0.3.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shigma/yakumo
+│  ├─ publisher: Shigma
+│  ├─ email: shigma10826@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yakumo
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yakumo/readme.md
+├─ yallist@4.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/yallist
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yallist
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yallist/LICENSE
+├─ yargs-parser@21.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/yargs-parser
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yargs-parser
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yargs-parser/LICENSE.txt
+├─ yargs@17.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yargs/yargs
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yargs
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yargs/LICENSE
+├─ yauzl@2.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thejoshwolfe/yauzl
+│  ├─ publisher: Josh Wolfe
+│  ├─ email: thejoshwolfe@gmail.com
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yauzl
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yauzl/LICENSE
+├─ ylru@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/node-modules/ylru
+│  ├─ publisher: fengmk2
+│  ├─ path: /Users/Shared/git/w-o-gpl/node_modules/ylru
+│  └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/ylru/LICENSE
+└─ yml-register@1.1.0
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/shigma/yml-register
+   ├─ publisher: Shigma
+   ├─ email: shigma10826@gmail.com
+   ├─ path: /Users/Shared/git/w-o-gpl/node_modules/yml-register
+   └─ licenseFile: /Users/Shared/git/w-o-gpl/node_modules/yml-register/LICENSE
+
